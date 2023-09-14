@@ -1,11 +1,11 @@
-This directory (lecture2) contains three snippets which are used for
+This directory (`lecture2`) contains three snippets which are used for
 demonstration during the second lecture of the course.
 
-To try these out, you need an environment that has a working coolc compiler and
-spim simulator.
+To try these out, you need an environment that has a working `coolc` compiler
+and `spim` simulator.
 
 Copy the `atoi.cl` file provided by the course materials
-(/usr/class/cs143/assignments/PA1/atoi.cl) in the same working directory as
+(`/usr/class/cs143/assignments/PA1/atoi.cl`) in the same working directory as
 where you copy these three files and run them as follows:
 
 ```
